@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Healo test task</string>
+    <string name="network_load_error">Can\'t load data from internet: %s</string>
+</resources>
